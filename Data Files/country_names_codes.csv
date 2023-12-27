@@ -1,4 +1,4 @@
-﻿Country,Alpha-2 code,Alpha-3 code,Numeric
+Country,Alpha-2 code,Alpha-3 code,Numeric
 Afghanistan,AF,AFG,4
 Åland Islands,AX,ALA,248
 Albania,AL,ALB,8
@@ -31,7 +31,6 @@ Bosnia and Herzegovina,BA,BIH,70
 Botswana,BW,BWA,72
 Bouvet Island,BV,BVT,74
 Brazil,BR,BRA,76
-British Indian Ocean Territory (the),IO,IOT,86
 Brunei Darussalam,BN,BRN,96
 Bulgaria,BG,BGR,100
 Burkina Faso,BF,BFA,854
@@ -58,7 +57,7 @@ Croatia,HR,HRV,191
 Cuba,CU,CUB,192
 Curaçao,CW,CUW,531
 Cyprus,CY,CYP,196
-Czechia,CZ,CZE,203
+Czech Republic,CZ,CZE,203
 Denmark,DK,DNK,208
 Djibouti,DJ,DJI,262
 Dominica,DM,DMA,212
@@ -117,8 +116,8 @@ Jordan,JO,JOR,400
 Kazakhstan,KZ,KAZ,398
 Kenya,KE,KEN,404
 Kiribati,KI,KIR,296
-Korea (the Democratic People's Republic of),KP,PRK,408
-Korea (the Republic of),KR,KOR,410
+North Korea,KP,PRK,408
+South Korea,KR,KOR,410
 Kuwait,KW,KWT,414
 Kyrgyzstan,KG,KGZ,417
 Lao People's Democratic Republic (the),LA,LAO,418
@@ -234,7 +233,6 @@ Uganda,UG,UGA,800
 Ukraine,UA,UKR,804
 United Arab Emirates (the),AE,ARE,784
 United Kingdom of Great Britain and Northern Ireland (the),GB,GBR,826
-United States Minor Outlying Islands (the),UM,UMI,581
 United States of America (the),US,USA,840
 Uruguay,UY,URY,858
 Uzbekistan,UZ,UZB,860
